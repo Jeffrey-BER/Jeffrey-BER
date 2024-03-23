@@ -1,7 +1,7 @@
 Hello there! 👋 
 * I'm Aaron Schwägerl, a German-American currently residing in Germany. 
 * My professional background is in Mechatronics and Automation Engineering,
-* and I've transitioned into the role of a Software Developer since November 2023.
+* and I've transitioned into the role of a Software Developer since December 2023.
 
 ## About Me
 * I would describe myself as adventurous, honest, and a good listener.
